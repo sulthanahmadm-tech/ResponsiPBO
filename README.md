@@ -15,4 +15,4 @@ Pastikan terminal dibuka dari dalam folder `src`.
 
 
 [C.] Output program
-1. ![Screenshot 2026-11-08 024256.png](../../../Pictures/Screenshots/Screenshot%202026-11-08%20024256.png)
+1. ![Output Program](img.png)
